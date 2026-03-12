@@ -18,16 +18,16 @@ Este repositório contém as respostas das questões apresentadas nos cursos de 
 ##  Seção 2: The Terminal 
 
 ### 1. Qual é o comando correto para voltar um nível (pasta anterior)?
-**Resposta:** `cd ..`
+**Resposta:** cd ..
 
-### 2. O que o símbolo ~ representa no terminal?
-**Resposta:** O caminho padrão/diretório pessoal (Home).
-
-### 3. Qual é o comando correto para mudar de diretório (entrar em pastas)?
-**Resposta:** `cd`
-
-### 4. Como eu criaria uma pasta chamada "dir" no terminal?
+### 2. Como eu criaria uma pasta chamada "dir" no terminal?
 **Resposta:** `mkdir dir`
+
+### 3. O que o símbolo ~ representa no terminal?
+**Resposta:** O caminho padrão/diretório pessoal.
+
+### 4. Qual é o comando correto para mudar de diretório (entrar em pastas)?
+**Resposta:** `cd`
 
 ### 5. Como os diretórios são removidos no terminal?
 **Resposta:** `rm -rf dir`
@@ -38,21 +38,21 @@ Este repositório contém as respostas das questões apresentadas nos cursos de 
 **Resposta:** O commit selecionado atualmente.
 
 ### 2. Verdadeiro ou Falso: Você pode fazer um commit assim que fizer as alterações?
-**Resposta:** Falso. (Os arquivos devem ser adicionados à área de 'staging' antes do commit).
+**Resposta:** Falso..
 
 ### 3. O que o comando 'git add .' faz?
 **Resposta:** Adiciona todos os arquivos à área de staging.
 
 ### 4. Verdadeiro ou Falso: 'git rm -f' remove o arquivo do diretório de trabalho?
-**Resposta:** Verdadeiro. (-f vem de 'force').
+**Resposta:** Verdadeiro.
 
 ### 5. Qual é o comando usado para criar um novo repositório?
-**Resposta:** `git init`
+**Resposta:** git init
 
 ##  Seção 4: Git branches
 
 ### 1. Como você adiciona e muda para uma nova branch no Git?
-**Resposta:** `git checkout -b <nome>`
+**Resposta:** git checkout -b <nome>
 
 ### 2. Verdadeiro ou Falso: Mesclar branches une todos os commits em uma única linha do tempo?
 **Resposta:** Falso. 
@@ -86,7 +86,7 @@ Este repositório contém as respostas das questões apresentadas nos cursos de 
 ## Seção 6: Using Git Remotely
 
 ### 1. Qual é o comando usado para adicionar um remote origin?
-**Resposta:** `git remote add origin <url>`
+**Resposta:** git remote add origin <url>
 
 ### 2. Verdadeiro ou Falso: 'git remote -v' mostra todos os seus remote origins?
 **Resposta:** Verdadeiro. 
@@ -117,5 +117,4 @@ Este repositório contém as respostas das questões apresentadas nos cursos de 
 ### 5. O que o 'Git-flow' faz?
 **Resposta:** Configura um modelo (template) para você usar em seu repositório.
 
-## 📑 Comprovação e Prints
-As imagens de conclusão e os resultados dos quizzes estão anexados aos arquivos deste repositório.
+
